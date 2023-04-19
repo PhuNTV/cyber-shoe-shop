@@ -1,5 +1,5 @@
 // import logo from './logo.svg';
-import ShoeStore from './Components/ShoeStore';
+import ShoeStore from './modules/ShoeStore';
 import './App.css';
 
 
